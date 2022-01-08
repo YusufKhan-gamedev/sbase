@@ -17,6 +17,8 @@
 #include "utf.h"
 #include "util.h"
 
+#define _SC_LOGIN_NAME_MAX	71
+
 struct entry {
 	char   *name;
 	mode_t  mode, tmode;
