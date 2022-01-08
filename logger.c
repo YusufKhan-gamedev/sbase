@@ -9,7 +9,8 @@
 #include <unistd.h>
 
 #include "util.h"
-
+#define	INTERNAL_NOPRI 0x10
+#define	INTERNAL_MARK (LOG_NFACILITIES<<3)
 typedef struct {
 	char *c_name;
 	int c_val;
