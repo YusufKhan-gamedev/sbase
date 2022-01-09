@@ -134,12 +134,10 @@ BIN =\
 	nohup\
 	od\
 	paste\
-	pathchk\
 	printenv\
 	printf\
 	pwd\
 	readlink\
-	renice\
 	rev\
 	rm\
 	rmdir\
