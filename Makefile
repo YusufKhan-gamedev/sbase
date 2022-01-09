@@ -129,7 +129,6 @@ BIN =\
 	mknod\
 	mktemp\
 	mv\
-	nice\
 	nl\
 	nohup\
 	od\
